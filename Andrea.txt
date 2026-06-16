@@ -1,1 +1,2 @@
 Meu nome é Andrea e estou aprendendo Git para documentar meus projetos.
+Data da tarefa: 16/06/2026
